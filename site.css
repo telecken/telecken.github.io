@@ -1,0 +1,41 @@
+* {margin: 0px; padding: 0px; border: 0px;}
+
+.tudo{margin-left: auto; margin-right: auto; width: 1150px; height: 800px; padding: 2px; margin-top: 2px; border: 2px solid black;}
+
+header {height: 80px; width:1100px;margin: 4px; background-color:#00FF00; border: 2px solid black;}
+  .logo{height: 70px;width: 200px;float: left; margin: 2px; background-color:#00FF00; border: 2px solid black;}
+  .lougo{height: 80px;width: 165px;}
+  .espaco{height: 70px;width: 884px;float: left; margin: 2px; background-color:#00FF00; border: 2px solid black;}
+.meio{height: 500px; width:1100px;margin: 4px; background-color:#00FF00; border: 2px solid black;}
+  nav {height: 400px;width: 200px; float: left; }
+  section {height: 490px;width: 600px; float: left; margin: 2px;  border: 2px solid black;}
+.login{height: 300px;width: 400px; float: left; margin: 2px; border: 5px solid black;}
+.cadastroo{height: 300px;width: 550px; float: left; margin: 2px;border: 5px solid black;}
+  .cadastro{height: 150px;width: 390px; float: left; margin: 2px; border: 2px solid black;}
+  .opcaovideo{height: 150px;width: 390px; float: left; margin: 2px; border: 2px solid black;}
+  .opvideos{height: 400px;width: 178px; float: left; margin: 2px; border: 2px solid #00FF00;}
+  .videos{height: 110px;width: 390px; float: left; margin: 2px; border: 2px solid #00FF00;}
+  .imagem1{height: 110px;width: 300px;}
+  .imagem2{height: 80px;width: 165px;}
+  .imagem3{height: 80px;width: 165px;}
+  .space{padding-left: 15px}
+  aside {height: 490px; width: 274px; float: left; margin: 2px; border:  2px solid black;}
+footer {height:170px; width: 1100px;  margin: 2px; background-color:#00FF00; padding: 2px; border: 2px solid black;}
+.botao1{color: black; margin-left: 15px; background-color: white;}
+.botao2{color: black; margin-left: 5px; background-color: white;}
+.botaof{color: black; margin-left: 8px; background-color: white;}
+.kl{margin-left: 3px;}
+
+
+nav{width: 200px; background: #00FF00; border: 3px black; padding: 5px;}
+nav ul {width: 110px; background: white; padding: 6px; border: 3px outset black; }
+nav li {list-style: none; padding: 3px 5px; background: #FFFF00; border: 3px solid blue;
+margin-bottom: 2px; font: 16 verdana;}
+nav a {display: block; color: black; text-decoration: none;}
+nav li:hover {color: black; background-color: green;}
+nav li ul {	position: absolute;
+				width: 100px;
+				left: 180px;
+				top: 260px;
+				display: none; }
+nav li:hover ul {display: block;}
